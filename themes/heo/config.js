@@ -17,16 +17,16 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '收录实用好用工具',
   HEO_HERO_TITLE_2: '',
-  HEO_HERO_TITLE_3: 'tools-site.byte.ink',
+  HEO_HERO_TITLE_3: 'https://tool.directory.cab',
   HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '付费软件专属折扣',
-  HEO_HERO_TITLE_LINK: 'https://tools-site.byte.ink',
+  HEO_HERO_TITLE_LINK: 'https://tool.dorectory.cab',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '精选推荐', url: '/tag/推荐' },
-  HEO_HERO_CATEGORY_2: { title: '免费工具', url: '/tag/免费' },
+  HEO_HERO_CATEGORY_2: { title: 'AI工具', url: '/tag/AI' },
   HEO_HERO_CATEGORY_3: { title: '性价比工具', url: '/tag/付费' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
