@@ -50,7 +50,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: '',
   HEO_INFO_CARD_URL2: '',
   HEO_INFO_CARD_ICON2: '',
-  HEO_INFO_CARD_URL3: 'https://byte.ink',
+  HEO_INFO_CARD_URL3: 'https://sphrag.com',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
